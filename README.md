@@ -1,6 +1,6 @@
 # Project Name
-> Outline a brief description of your project.
-
+> This project provides the multi linear regression model for the Bike sharing system as part of assignment of Upgrad's program for AI-ML.
+> It also provides answers to assignment based queations and general questions asked in the assignmeny.
 
 ## Table of Contents
 * [General Info](#general-information)
