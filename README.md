@@ -5,13 +5,12 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- The repository has two files: 1. BikeSharingCompanyDemandModel.ipynb for the code solution with analysis to create the model for a bike sharing system.
+1. The repository has two files: 1. BikeSharingCompanyDemandModel.ipynb for the code solution with analysis to create the model for a bike sharing system.
 2. LR_AssignmentQuestions.pdf, while covers answers to the questions asked in the assignment. 
 
 The dataset used for the analysis and model creation is day.csv, which is provided by the Upgrad.
