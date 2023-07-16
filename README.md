@@ -11,7 +11,7 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- PThe repository has two files: 1. BikeSharingCompanyDemandModel.ipynb for the code solution with analysis to create the model for a bike sharing system.
+- The repository has two files: 1. BikeSharingCompanyDemandModel.ipynb for the code solution with analysis to create the model for a bike sharing system.
 2. LR_AssignmentQuestions.pdf, while covers answers to the questions asked in the assignment. 
 
 The dataset used for the analysis and model creation is day.csv, which is provided by the Upgrad.
